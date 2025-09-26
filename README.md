@@ -4,3 +4,6 @@ with pretrained weights and fine-tuned for the task. The classifiers are trained
 a GAN-based augmented dataset, and a diffusion-based dataset. In addition, 
 the study explores the impact of color space transformations (HSV, Lab, and YCbCr) on model performance, 
 providing a comprehensive analysis of how different representations and data generation techniques influence classification accuracy.
+
+
+These classifier codes are proposed as part of the research work titled “LeafDiffusion: Advancing Mango Leaf Disease Recognition with Latent Diffusion Models and Multi-Color Space Analysis”, published in the journal The Visual Computer. They represent the result of extensive research and development efforts. If you use or build upon this work, please cite this repository. Proper acknowledgment not only gives credit to the contributors but also supports reproducibility, transparency, and ongoing progress in research.
